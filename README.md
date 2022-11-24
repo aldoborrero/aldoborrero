@@ -10,8 +10,10 @@ Initially started as an Android developer that later shifted towards back-end an
 
 You can also find me on:
 
-- [My blog](https://aldoborrero.com), where I plan to write my learnings and thoughts.
-- On <a rel= "me" class= "Link--primary" href=" https://fosstodon.org/@aldo">Mastodon</a>, a place that I'm enjoying these days of turbulence with Twitter.
-- And also [41North](https://41north.dev), my company website.
+<ul>
+  <li><a href="https://aldoborrero.com">My blog</a>, where I plan to write my learnings and thoughts.</li>
+  <li>On <a rel="me" class="Link--primary" href="https://fosstodon.org/@aldo">Mastodon</a>, a place that I'm enjoying these days of turbulence with Twitter.</li>
+  <li>And also <a href="https://41north.dev">41North</a>, my company website.</li>
+</ul>
 
 I'm open to have any chat for potential and interesting projects!
