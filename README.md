@@ -6,6 +6,8 @@ I've been working for the past decade (wow, I'm getting old 😨!) on different 
 
 Initially started as an Android developer that later shifted towards back-end and front-end. In 2016 I discovered by pure chance [Ethereum](https://ethereum.org). Since then, I've been involved in different exciting projects, including an [Open Source block explorer called EthVM V1](https://github.com/EthVM/EthVM/tree/6a956ab8a0912750f5bd83c3a030d7db1f61f992) for [MyEtherWallet](https://www.myetherwallet.com/) and a private [MEV](https://ethereum.org/en/developers/docs/mev/) relay.
 
+And since 2021 and 2023 Nix and LLMs have been my latest obsessions.
+
 ### Links
 
 You can also find me on:
@@ -16,4 +18,4 @@ You can also find me on:
   <li>And also <a href="https://41north.dev">41North</a>, my company website.</li>
 </ul>
 
-I'm open to have any chat for potential and interesting projects!
+I'm open to having any chat about potential and interesting projects!
